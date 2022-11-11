@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.cordemans.multiinclude.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.cordemans.multiinclude.MyBundle
 
 class MyApplicationService {
 
